@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+conversation_history.json
+models/
+.conda/
+test.py
+.env
+jarvis_tts_model_train/
